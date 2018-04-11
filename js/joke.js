@@ -1,0 +1,5 @@
+$(function(){
+	$('.modal').modal();
+	
+	
+});
