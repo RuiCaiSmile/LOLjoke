@@ -80,8 +80,8 @@ $(function(){
 	    "contentimg":"images/theshycontent.jpg",
 	    "video":"",
 	    "width":"50px",
-	    "top":"384px",
-	    "left":"520px"
+	    "top":"400px",
+	    "left":"510px"
 	    },{
 	    "name":"Level4",
 		"title":"Level4",
@@ -182,6 +182,106 @@ $(function(){
 	    "width":"60px",
 	    "top":"205px",
 	    "left":"836px"
+	    },{
+	    "name":"Hai",
+		"title":"Hai掌门",
+	    "txt":"没有DF",
+	    "riftimg":"images/Hai.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"40px",
+	    "top":"326px",
+	    "left":"880px"
+	    },{
+	    "name":"piglet",
+		"title":"这个笑容由你来守护",
+	    "txt":"没有DF",
+	    "riftimg":"images/piglet.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"80px",
+	    "top":"620px",
+	    "left":"660px"
+	    },{
+	    "name":"Levi",
+		"title":"大魔法师的手速",
+	    "txt":"没有DF",
+	    "riftimg":"images/Levi.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"100px",
+	    "top":"490px",
+	    "left":"600px"
+	    },{
+	    "name":"SevenAndHecarim",
+		"title":"哦，这就是7~",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/7AndHecarim.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"130px",
+	    "top":"420px",
+	    "left":"520px"
+	    },{
+	    "name":"Faker",
+		"title":"强者恒强",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/FakerShockWave.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"80px",
+	    "top":"350px",
+	    "left":"540px"
+	    },{
+	    "name":"Stanley",
+		"title":"Stanley的豹女活动范围",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/Stanley.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"130px",
+	    "top":"90px",
+	    "left":"430px"
+	    },{
+	    "name":"DeftPentaKill",
+		"title":"Deft五杀地",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/DeftPentaKill.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"90px",
+	    "top":"240px",
+	    "left":"300px"
+	    },{
+	    "name":"Smeb",
+		"title":"天雷",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/Smeb.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"40px",
+	    "top":"410px",
+	    "left":"460px"
+	    },{
+	    "name":"Pawn",
+		"title":"地火",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/Pawn.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"60px",
+	    "top":"460px",
+	    "left":"660px"
+	    },{
+	    "name":"SevenAndUZI",
+		"title":"2级抓下",
+	    "txt":"爱的深沉",
+	    "riftimg":"images/SevenAndUZI.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"80px",
+	    "top":"650px",
+	    "left":"750px"
 	    }
 	    ];
 	//显示joke
