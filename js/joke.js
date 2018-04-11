@@ -22,6 +22,16 @@ $(function(){
 	    "width":"80px",
 	    "top":"550px",
 	    "left":"860px"
+	    },{
+	    "name":"mouse",
+		"title":"专业开车",
+	    "txt":"追光者",
+	    "riftimg":"images/mousetexi.png",
+	    "contentimg":"images/theshycontent.jpg",
+	    "video":"",
+	    "width":"260px",
+	    "top":"240px",
+	    "left":"320px"
 	    }];
 	//显示joke
 	function WarNeverChange(){
@@ -36,13 +46,10 @@ $(function(){
 				"top":item.top,
 				"left":item.left
 			});
-		});
-		
-		
-		
+		});	
 	}
 	WarNeverChange();
-	
+	//modals
 	$(".itemimg").click(function(e){
 		$("#modalmsg").html("");
 		var content = $("<div class='modal-content'></div").appendTo($("#modalmsg"));
@@ -50,7 +57,7 @@ $(function(){
 		$("<h4>"+$(this).attr("ctitle")+"</h4>").appendTo($(content));
 		$("<p>"+$(this).attr("ctxt")+"</p>").appendTo($(content));
 		$("<img class='' src='"+$(this).attr("cimg")+"' alt='"+$(this).attr("alt")+"img' />").appendTo($(content));
-		$("<a class='btn-floating waves-effect waves-light red'><i class='material-icons'>movie</i></a>").appendTo($(footer));
+		$("<a class='btn-floating waves-effect waves-light red'><i class='material-icons'>movie</i></a>").appendTo($('.modal-footer'));
 	});
 
 	
