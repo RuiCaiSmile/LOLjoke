@@ -77,7 +77,7 @@ $(function(){
 		"title":"世界聚焦于你",
 	    "txt":"7777777永不团灭",
 	    "riftimg":"images/map/worldcenter.png",
-	    "contentimg":"images/content/theshycontent.jpg",
+	    "contentimg":"images/content/worldcentercontent.png",
 	    "video":"",
 	    "width":"50px",
 	    "top":"400px",
