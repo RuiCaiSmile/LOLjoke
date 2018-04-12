@@ -5,10 +5,10 @@ $(function(){
 	var json =[{
 		"name":"theshy",
 		"title":"The Shy领域",
-	    "txt":"传说中的LPL上单Boss——The Shy在此出没，强行收过路费无数",
+	    "txt":"2018年LPL春季赛常规赛期间，前替补选手The Shy几乎教育了所有LPL上单，一手剑姬更是出神入化，令人印象深刻。",
 	    "riftimg":"images/theshy.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/q0oa8tt2d5pt6kc/g0026g2t8qb.html",
 	    "width":"150px",
 	    "top":"90px",
 	    "left":"180px"
@@ -24,41 +24,41 @@ $(function(){
 	    "left":"860px"
 	    },{
 	    "name":"mouse",
-		"title":"专业开车",
-	    "txt":"追光者",
+		"title":"光之倒车",
+	    "txt":"2017夏季赛EDG vs Snake第一轮第二局的比赛上，游戏时间15分14秒阿光在红色方F4处使用克烈大招抓Snake落单的锤石失误，直接开进了龙坑，这个尴尬的镜头也被导播刚好捕捉到。",
 	    "riftimg":"images/mousetexi.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/k1fegm1c7p7sfhl/i0024ngte3g.html",
 	    "width":"260px",
 	    "top":"240px",
 	    "left":"320px"
 	    },{
 	    "name":"condi",
-		"title":"condi",
-	    "txt":"龙！是！我！的！",
+		"title":"龙！是！我！的！",
+	    "txt":"2016-2017年间，LPL流传着一个恐怖的传说，千万不要在condi活着的时候打龙，无数支战队为此付出了惨痛的代价，S7入围赛上condi使用EZ两度抢到打龙，帮助WE成功翻盘。",
 	    "riftimg":"images/condi.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://www.bilibili.com/video/av15145635",
 	    "width":"100px",
 	    "top":"180px",
 	    "left":"360px"
 	    },{
 	    "name":"deft",
 		"title":"朝鲜飞行员",
-	    "txt":"每个人都会打飞机，这对飞机来说很不公平",
+	    "txt":"现KT战队AD选手Deft在这个片局域无数次犯下低级失误，从S5时候的传灯到今年LCK赛场的数次被开，这片区域似乎成了Deft的魔咒。",
 	    "riftimg":"images/deft.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/j0fp5yhsgkh6c29/d0018wq7290.html",
 	    "width":"110px",
 	    "top":"300px",
 	    "left":"450px"
 	    },{
 	    "name":"7777777",
-		"title":"明凯",
-	    "txt":"明凯不做暗事",
+		"title":"明凯不做暗事",
+	    "txt":"2017年全球总决赛EDG vs C9的比赛上，厂长与团队沟通失误提前走出了草丛，导致EDG开团失败，最终EDG输给了C9，吞下了小组赛0-3的苦果。",
 	    "riftimg":"images/7plus.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/bzc7xr95fot0p4e/k0024rz03ur.html",
 	    "width":"100px",
 	    "top":"160px",
 	    "left":"320px"
@@ -94,11 +94,11 @@ $(function(){
 	    "left":"478px"
 	    },{
 	    "name":"RyuAndFaker",
-		"title":"RyuAndFaker",
-	    "txt":"传奇由此生",
+		"title":"传奇由此生",
+	    "txt":"2013OGN夏季赛决赛SKT vs KTB的决胜局盲选模式上，Faker的劫完美操作极限反杀了Ryu的劫，从这场比赛后，Faker就成了全世界各战队最恐怖的对手，人称大魔王。",
 	    "riftimg":"images/RyuAndFaker.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://www.bilibili.com/video/av20164442",
 	    "width":"110px",
 	    "top":"465px",
 	    "left":"307px"
@@ -114,41 +114,41 @@ $(function(){
 	    "left":"290px"
 	    },{
 	    "name":"pray",
-		"title":"pray",
-	    "txt":"皮",
+		"title":"一支穿云箭",
+	    "txt":"2016全球总决赛冠军战ROX vs SKT的第二场比赛当中，鼠王Pray使用艾希在ROX先死一人的情况下在高地使用大招远程打断了Duke的TP，帮助ROX拿下一场关键的胜利。",
 	    "riftimg":"images/pray.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://www.bilibili.com/video/av6772152",
 	    "width":"90px",
 	    "top":"540px",
 	    "left":"230px"
 	    },{
 	    "name":"UZI",
-		"title":"UZI",
-	    "txt":"皮",
+		"title":"想攻击我，先试试和影子玩拳击吧",
+	    "txt":"2013全球总决赛八强OMG vs RYL的比赛上，Uzi使用VN单枪匹马切入敌方后排完成收割，国外解说也惊呼“He Still Alive！”",
 	    "riftimg":"images/UZI.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://www.bilibili.com/video/av14597935",
 	    "width":"90px",
 	    "top":"255px",
 	    "left":"240px"
 	    },{
 	    "name":"X4",
-		"title":"X4",
-	    "txt":"皮",
+		"title":"一炮4个PDD",
+	    "txt":"2013年全明星赛上PDD的扎克面对shy的杰斯是时被杰斯一炮轰死4个被动组织，后被玩家戏称为“一炮4个PDD”。",
 	    "riftimg":"images/X4.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/e242v6swcup3gwv/s0113whr22c.html",
 	    "width":"60px",
 	    "top":"230px",
 	    "left":"160px"
 	    },{
 	    "name":"AJhere",
-		"title":"AJhere",
-	    "txt":"皮",
+		"title":"古风美男在此",
+	    "txt":"在S6总决赛LPL预选赛中，IM和WE对战的生死局中，IM上单选手AJ TP绕后一波关键性的团战结束了游戏，赢得了去世界赛的门票。",
 	    "riftimg":"images/AJhere.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/lkp3ocrvtmpp6z9/g00212n8zo8.html",
 	    "width":"60px",
 	    "top":"315px",
 	    "left":"160px"
@@ -245,10 +245,10 @@ $(function(){
 	    },{
 	    "name":"DeftPentaKill",
 		"title":"Deft五杀地",
-	    "txt":"爱的深沉",
+	    "txt":"2015LPL春季赛决赛EDG vs LGD的第五局上，Deft的轮子妈在最后一波团战EDG先死两人的情况下闪现AW点死Imp并完成了五杀，带领EDG拿下冠军。",
 	    "riftimg":"images/DeftPentaKill.png",
 	    "contentimg":"images/theshycontent.jpg",
-	    "video":"",
+	    "video":"https://v.qq.com/x/cover/my8yu1pz4rgrkhf/v0152839rcr.html",
 	    "width":"90px",
 	    "top":"240px",
 	    "left":"300px"
@@ -308,7 +308,7 @@ $(function(){
 		$("<h4>"+$(this).attr("ctitle")+"</h4>").appendTo($(content));
 		$("<p>"+$(this).attr("ctxt")+"</p>").appendTo($(content));
 		$("<img class='' src='"+$(this).attr("cimg")+"' alt='"+$(this).attr("alt")+"img' />").appendTo($(content));
-		$("<a class='btn-floating waves-effect waves-light red'><i class='material-icons'>movie</i></a>").appendTo($('.modal-footer'));
+		$("<a class='btn-floating waves-effect waves-light red' href='"+$(this).attr("cvedio")+"' target='_Blank'><i class='material-icons'>movie</i></a>").appendTo($('.modal-footer'));
 	});
 
 	
