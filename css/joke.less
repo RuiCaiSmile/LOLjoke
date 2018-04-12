@@ -1,15 +1,29 @@
 .rift{
 	position:relative;
-	background-image:url(../images/rift.png);
+	background-image:url(../images/rift.jpg);
 	width:1079px;
 	height:768px;
-	border:1px solid black;
+	border:none;
 	margin:0 auto;
 }
 
-.modal{
-	width:648px;
-	.contentimg{
-		width:600px;
-	}
+
+.modal-footer{
+	padding-right:24px !important;
 }
+
+@media screen and (min-width:628px){  
+	.modal{
+		width:628px;
+		.contentimg{
+			width:100%;
+		}
+	}
+}  
+@media screen and (max-width:628px){  
+	.modal{
+		.contentimg{
+			width:100%;
+		}
+	}
+}  
