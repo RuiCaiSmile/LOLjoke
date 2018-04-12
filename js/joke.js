@@ -307,7 +307,7 @@ $(function(){
 		var footer = $("<div class='modal-footer'></div>").appendTo($("#modalmsg"));
 		$("<h4>"+$(this).attr("ctitle")+"</h4>").appendTo($(content));
 		$("<p>"+$(this).attr("ctxt")+"</p>").appendTo($(content));
-		$("<img class='' src='"+$(this).attr("cimg")+"' alt='"+$(this).attr("alt")+"img' />").appendTo($(content));
+		$("<img class='contentimg' src='"+$(this).attr("cimg")+"' alt='"+$(this).attr("alt")+"img' />").appendTo($(content));
 		$("<a class='btn-floating waves-effect waves-light red' href='"+$(this).attr("cvedio")+"' target='_Blank'><i class='material-icons'>movie</i></a>").appendTo($('.modal-footer'));
 	});
 
