@@ -97,7 +97,7 @@ $(function(){
 		"title":"传奇由此生",
 	    "txt":"2013OGN夏季赛决赛SKT vs KTB的决胜局盲选模式上，Faker的劫完美操作极限反杀了Ryu的劫，从这场比赛后，Faker就成了全世界各战队最恐怖的对手，人称大魔王。",
 	    "riftimg":"images/map/RyuAndFaker.png",
-	    "contentimg":"images/content/theshycontent.jpg",
+	    "contentimg":"images/content/RyuAndFakercontent.jpg",
 	    "video":"https://www.bilibili.com/video/av20164442",
 	    "width":"110px",
 	    "top":"465px",
